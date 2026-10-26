@@ -1,0 +1,23 @@
+
+openvpn
+tshark
+gobuster
+nmap
+seclists
+mysql
+inetutils
+smbclient
+
+# OTHER
+
+kitty
+ttf-font-awesome
+woff2-font-awesome
+ttf-jetbrains-mono-nerd
+ttf-fira-code
+fish
+fisher
+swww
+
+man-db
+man-pages

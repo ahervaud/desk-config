@@ -1,0 +1,3 @@
+nmap
+gobuster
+wireshark-cli
