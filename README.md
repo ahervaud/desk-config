@@ -1,9 +1,14 @@
 # Config
 
-The objective is to create a simple workspace under archlinux with
-cyber tools. This is just my desktop config.
+## Presentation
 
-# Setup
+My Arch linux dotfiles, installation and scripts.
+
+## Apps
+Godot engine
+
+
+## Setup
 
 ```bash
 

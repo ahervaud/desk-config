@@ -1,8 +1,8 @@
 #!/bin/bash
 
-ls -s dotfiles/fish ~/.config/
-ls -s dotfiles/fuzzel ~/.config/
-ls -s dotfiles/kitty ~/.config/
-ls -s dotfiles/niri ~/.config/
-ls -s dotfiles/vim ~/.config/
-ls -s dotfiles/waybar ~/.config/
+ls -sf dotfiles/fish ~/.config/
+ls -sf dotfiles/fuzzel ~/.config/
+ls -sf dotfiles/kitty ~/.config/
+ls -sf dotfiles/niri ~/.config/
+ls -sf dotfiles/vim ~/.config/
+ls -sf dotfiles/waybar ~/.config/

@@ -1,3 +1,6 @@
 set nu
 syntax on
 set cindent
+
+let g:user42 = 'ahervaud'
+let g:mail42 = 'ahervaud@student.42perpignan.fr'
