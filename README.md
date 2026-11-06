@@ -2,10 +2,18 @@
 
 ## Presentation
 
-My Arch linux dotfiles, installation and scripts.
+This files have like objective to deliverate a minimalist and simple archlinux
+configuration.
+It contain scripts for have more strong privacy life, on the network and the hardware.
 
-## Apps
-Godot engine
+Doing :
+- change DNS
+
+
+Work in progress
+- Tor
+- Encryption
+- 
 
 
 ## Setup
